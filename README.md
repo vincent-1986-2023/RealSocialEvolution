@@ -51,4 +51,10 @@ The emergence of social structures is part of natural evolution
 
 唯有如此，社会结构才不会成为进化的阻力，而能继续充当“族群智慧”的过滤器，让人类作为有性生殖物种，在环境变迁与自我发展的道路上继续前行。
 
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+© 2025 [Vincent Yang]
+
 
